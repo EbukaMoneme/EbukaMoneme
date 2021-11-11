@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at: camoneme@gmail.com
 
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/ahmedtarabia/" target="blank"><img align="center" style='color:“blue”' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ahmedtarabia/" height="30" width="40" /></a></h3>
+- 🔗 Let's connect: https://www.linkedin.com/in/ebukamoneme/
 <!--
 **EbukaMoneme/EbukaMoneme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

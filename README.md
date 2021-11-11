@@ -1,7 +1,7 @@
 <h1 >Hi, I'm Ebuka 👋</h1>
 <h3 >A software developer dedicated to building effective tech products and clean user experiences.</h3>
 
--👀 I’m interested in developing full stack applications.
+- 👀 I’m interested in developing full stack applications.
 
 - 📚 I’m currently studying Web Development at Lighthouse Labs Bootcamp.
 

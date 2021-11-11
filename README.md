@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ebuka Moneme </h1>
-<h3 align="center">A software developer dedicated to building effective tech products that provide intuitive and clean user experiences.</h3>
+<h3 align="center">A software developer dedicated to building effective tech products and clean user experiences.</h3>
 
 - 📚 I’m currently studying Web Development at Lighthouse Labs Bootcamp.
 
-- 👯 I’m looking to collaborate on projects and hackathons.	
+- 🧠 I’m looking to collaborate on projects and hackathons.	
 
-- 💻 My Tech Stack (DESC in Proficiency):
-- **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
-- **Framework, Libraries and Environments:** NodeJS, ReactJS, ExpressJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
-- **Systems,  CMS and Databases:** PostgreSQL, Git
-- **Testing:** React Testing Library, Mocha, Chai, StoryBook, Jest
+- 💻 Tech Proficiencies:
+  - **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
+  - **Framework, Libraries and Environments:** NodeJS, ReactJS, ExpressJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
+  - **Systems,  CMS and Databases:** PostgreSQL, Git
+  - **Testing:** React Testing Library, Mocha, Chai, StoryBook, Jest
 
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/ahmedtarabia/" color=“blue” target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ahmedtarabia/" height="30" width="40" /></a></h3>
 <!--

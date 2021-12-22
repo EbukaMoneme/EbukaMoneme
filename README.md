@@ -11,7 +11,7 @@
   - **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
   - **Framework, Libraries and Environments:** NodeJS, ReactJS, ExpressJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
   - **Systems,  CMS and Databases:** PostgreSQL, Git
-  - **Testing:** React Testing Library, Mocha, Chai, StoryBook, Jest, RSpec
+  - **Testing:** Cypress, Mocha, Chai, StoryBook, Jest, RSpec
 
 - 📫 You can reach me at: camoneme@gmail.com
 

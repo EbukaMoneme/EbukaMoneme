@@ -2,6 +2,7 @@
 <h3 align="center" width="80%">I'm a software developer dedicated to building efficient programs and clean user experiences. I'm always open to new challenges and learning new technologies.</h3>
 <br/>
 
+## 👨🏾‍💻 About me
 💻 Tech Proficiencies:
  - **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
  - **Framework, Libraries and Environments:** NodeJS, ReactJS, ExpressJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma

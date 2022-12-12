@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Ebuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center" width="80%">I'm a software developer dedicated to building efficient programs and clean user experiences. I'm always open to new challenges and learning new technologies.</h3>
-<br/>
+<h3 align="center">I'm a software developer dedicated to building efficient programs and clean user experiences. <br/> I'm always open to new challenges and learning new technologies.</h3>
 
-## 👨🏾‍💻 About me
+## Skills
 💻 Tech Proficiencies:
  - **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
  - **Framework, Libraries and Environments:** NodeJS, ReactJS, ExpressJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
@@ -11,9 +10,7 @@
 
 📫 You can reach me at: camoneme@gmail.com
 
-<br/>
-
-## 🙋‍♀️ Connect with me
+## Let's Connect
 <p align="center">
 	<a href="mailto:camoneme@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://ebukamoneme.com"><img src="https://img.icons8.com/bubbles/50/null/home.png" title='Portfolio' alt="Portfolio"/></a>

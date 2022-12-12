@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ebuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center" width="80%">I'm a software developer dedicated to building efficient programs and clean user experiences. I'm always open to new challenges and learning new technologies.</h3>
-<hr/ height="10px">
+<br/>
 
 💻 Tech Proficiencies:
  - **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
@@ -9,6 +9,8 @@
  - **Testing:** Cypress, Mocha, Chai, StoryBook, Jest, RSpec
 
 📫 You can reach me at: camoneme@gmail.com
+
+<br/>
 
 ## 🙋‍♀️ Connect with me
 <p align="center">

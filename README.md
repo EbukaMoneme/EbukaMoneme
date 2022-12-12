@@ -8,8 +8,6 @@
  - **Systems,  CMS and Databases:** PostgreSQL, Git
  - **Testing:** Cypress, Mocha, Chai, StoryBook, Jest, RSpec
 
-📫 You can reach me at: camoneme@gmail.com
-
 ## Let's Connect
 <p align="center">
 	<a href="mailto:camoneme@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>

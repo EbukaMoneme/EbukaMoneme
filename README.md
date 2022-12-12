@@ -1,11 +1,6 @@
-<h1 >Hi, I'm Ebuka 👋</h1>
-<h3 >A software developer dedicated to building effective tech products and clean user experiences.</h3>
-
-- 👀 I’m interested in developing full stack applications.
-
-- 📚 I’m currently studying Web Development at Lighthouse Labs Bootcamp.
-
-- 🧠 I’m looking to collaborate on projects and hackathons.	
+<h1 align="center">Hi, I'm Ebuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 >I'm a software developer dedicated to building efficient programs and clean user experiences.</h3>
+<h3 >I'm always open to new challenges and learning new technologies.</h3>
 
 - 💻 Tech Proficiencies:
   - **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
@@ -15,7 +10,14 @@
 
 - 📫 You can reach me at: camoneme@gmail.com
 
-- 🔗 Let's connect: <a href="https://www.linkedin.com/in/ebukamoneme/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ebukamoneme/" height="40" width="40" /></a>
+## 🙋‍♀️ Connect with me
+<p align="center">
+	<a href="mailto:camoneme@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="ebukamoneme.com"><img src="https://icons8.com/icon/91234/home" title='Portfolio' alt="Portfolio"/></a>
+	<a href="https://www.linkedin.com/in/ebukamoneme/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+</p>
+
+<!-- - 🔗 Let's connect: <a href="https://www.linkedin.com/in/ebukamoneme/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ebukamoneme/" height="40" width="40" /></a> -->
 <!--
 **EbukaMoneme/EbukaMoneme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

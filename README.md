@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Ebuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">I'm a software developer dedicated to building efficient programs and clean user experiences. I'm always open to new challenges and learning new technologies.</h3>
+<hr/>
 
 💻 Tech Proficiencies:
  - **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
@@ -12,7 +13,7 @@
 ## 🙋‍♀️ Connect with me
 <p align="center">
 	<a href="mailto:camoneme@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://ebukamoneme.com"><img src="https://user-images.githubusercontent.com/23465711/207150625-ee2feb89-d552-498a-b30f-3e70f3e713d8.png" title='Portfolio' alt="Portfolio"/></a>
+	<a href="https://ebukamoneme.com"><img src="https://img.icons8.com/bubbles/50/null/home.png" title='Portfolio' alt="Portfolio"/></a>
 	<a href="https://www.linkedin.com/in/ebukamoneme/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
 

@@ -11,8 +11,8 @@
 ## Let's Connect
 <p align="center">
 	<a href="mailto:camoneme@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://ebukamoneme.com" target="blank"><img src="https://img.icons8.com/bubbles/50/null/home.png" title='Portfolio' alt="Portfolio"/></a>
-	<a href="https://www.linkedin.com/in/ebukamoneme/" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://ebukamoneme.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/null/home.png" title='Portfolio' alt="Portfolio"/></a>
+	<a href="https://www.linkedin.com/in/ebukamoneme/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
 
 <!-- - 🔗 Let's connect: <a href="https://www.linkedin.com/in/ebukamoneme/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ebukamoneme/" height="40" width="40" /></a> -->

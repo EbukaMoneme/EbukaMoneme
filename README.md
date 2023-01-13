@@ -4,8 +4,9 @@
 ## Skills
 💻 Tech Proficiencies:
 
-<img href="#" src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="25" height="25">
-
+<a href="#">
+<img src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="25" height="25">
+</a>
  **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
  - **Framework, Libraries and Environments:** NodeJS, ReactJS, ExpressJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
  - **Systems, CMS and Databases:** PostgreSQL, Git
@@ -17,13 +18,6 @@
 	<a href="https://ebukamoneme.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/null/home.png" title='Portfolio' alt="Portfolio"/></a>
 	<a href="https://www.linkedin.com/in/ebukamoneme/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
-
-{
- resolve: 'gatsby-remark-images',
- options: {
-   linkImagesToOriginal: false,
- },
-}
 
 <!-- - 🔗 Let's connect: <a href="https://www.linkedin.com/in/ebukamoneme/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="https://www.linkedin.com/in/ebukamoneme/" height="40" width="40" /></a> -->
 <!--

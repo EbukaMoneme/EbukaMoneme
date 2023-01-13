@@ -3,16 +3,16 @@
 
 ## Skills
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212404964-e33626be-4974-4f46-8ad3-4c00c2a9df42.png" width="25" height="25"> <b>Programming Languages and Technologies:</b> JavaScript, TypeScript, Ruby, Python, SQL, HTML, CSS
+<img src="https://user-images.githubusercontent.com/23465711/212404964-e33626be-4974-4f46-8ad3-4c00c2a9df42.png" width="20" height="20"> <b>Programming Languages and Technologies:</b> JavaScript, TypeScript, Ruby, Python, SQL, HTML, CSS
 </div>
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212405125-48449a8b-ccda-4315-8679-4241b038ad82.png" width="25" height="25"> <b>Framework, Libraries and Environments:</b> NodeJS, ReactJS, ExpressJS, NextJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
+<img src="https://user-images.githubusercontent.com/23465711/212405125-48449a8b-ccda-4315-8679-4241b038ad82.png" width="20" height="20"> <b>Framework, Libraries and Environments:</b> NodeJS, ReactJS, ExpressJS, NextJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
 </div>
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="25" height="25"> <b>Systems, CMS and Databases:</b> PostgreSQL, Git, MongoDB
+<img src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="20" height="20"> <b>Systems, CMS and Databases:</b> PostgreSQL, Git, MongoDB
 </div>
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212405290-7730e84a-ddc9-431d-8214-20c45668ca75.png" width="25" height="25"> <b>Testing:</b> Cypress, Mocha, Chai, StoryBook, Jest, RSpec
+<img src="https://user-images.githubusercontent.com/23465711/212405290-7730e84a-ddc9-431d-8214-20c45668ca75.png" width="20" height="20"> <b>Testing:</b> Cypress, Mocha, Chai, StoryBook, Jest, RSpec
 </div>
 
 ## Let's Connect

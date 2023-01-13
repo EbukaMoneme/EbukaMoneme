@@ -2,18 +2,17 @@
 <h3 align="center">I'm a software developer dedicated to building efficient programs and clean user experiences. <br/> I'm always open to new challenges and learning new technologies.</h3>
 
 ## Skills
-**Programming Languages and Technologies:**
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212404964-e33626be-4974-4f46-8ad3-4c00c2a9df42.png" width="25" height="25"> <b>Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS</b>
+<img src="https://user-images.githubusercontent.com/23465711/212404964-e33626be-4974-4f46-8ad3-4c00c2a9df42.png" width="25" height="25"> <b>Programming Languages and Technologies:** JavaScript, TypeScript, Ruby, Python, SQL, HTML, CSS</b>
 </div>
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212405125-48449a8b-ccda-4315-8679-4241b038ad82.png" width="25" height="25"> <b>Framework, Libraries and Environments:** NodeJS, ReactJS, ExpressJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma</b>
+<img src="https://user-images.githubusercontent.com/23465711/212405125-48449a8b-ccda-4315-8679-4241b038ad82.png" width="25" height="25"> <b>Framework, Libraries and Environments:</b> NodeJS, ReactJS, ExpressJS, NextJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
 </div>
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="25" height="25"> <b>Systems, CMS and Databases:** PostgreSQL, Git</b>
+<img src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="25" height="25"> <b>Systems, CMS and Databases:</b> PostgreSQL, Git, MongoDB
 </div>
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212405290-7730e84a-ddc9-431d-8214-20c45668ca75.png" width="25" height="25"> <b>Testing:** Cypress, Mocha, Chai, StoryBook, Jest, RSpec</b>
+<img src="https://user-images.githubusercontent.com/23465711/212405290-7730e84a-ddc9-431d-8214-20c45668ca75.png" width="25" height="25"> <b>Testing:</b> Cypress, Mocha, Chai, StoryBook, Jest, RSpec
 </div>
 
 ## Let's Connect

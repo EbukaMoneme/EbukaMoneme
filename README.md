@@ -3,7 +3,7 @@
 
 ## Skills
 <div>
-<img src="https://user-images.githubusercontent.com/23465711/212404964-e33626be-4974-4f46-8ad3-4c00c2a9df42.png" width="25" height="25"> <b>Programming Languages and Technologies:** JavaScript, TypeScript, Ruby, Python, SQL, HTML, CSS</b>
+<img src="https://user-images.githubusercontent.com/23465711/212404964-e33626be-4974-4f46-8ad3-4c00c2a9df42.png" width="25" height="25"> <b>Programming Languages and Technologies:</b> JavaScript, TypeScript, Ruby, Python, SQL, HTML, CSS
 </div>
 <div>
 <img src="https://user-images.githubusercontent.com/23465711/212405125-48449a8b-ccda-4315-8679-4241b038ad82.png" width="25" height="25"> <b>Framework, Libraries and Environments:</b> NodeJS, ReactJS, ExpressJS, NextJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma

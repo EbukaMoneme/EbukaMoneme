@@ -3,8 +3,10 @@
 
 ## Skills
 💻 Tech Proficiencies:
-<img src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="100" height="100">
- ![database-storage](https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png | width=100) **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
+![database-storage](https://user-images.githubusercontent.com/23465711/212398192-941322a0-58c8-4f34-94f3-3ce35809f6d0.png|width=250px)
+
+<img src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="50" height="50">
+ **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS
  - **Framework, Libraries and Environments:** NodeJS, ReactJS, ExpressJS, Rails, JQuery, EJS, BootSrap, SASS, Bulma
  - **Systems,  CMS and Databases:** PostgreSQL, Git
  - **Testing:** Cypress, Mocha, Chai, StoryBook, Jest, RSpec

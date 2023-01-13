@@ -4,7 +4,7 @@
 ## Skills
 💻 Tech Proficiencies:
 
-<picture>
+<picture src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="25" height="25">
 <img src="https://user-images.githubusercontent.com/23465711/212396468-c771d80a-1f7e-4b7a-9530-5bd0a58ec5e4.png" width="25" height="25">
 </picture>
  **Programming Languages and Technologies:** JavaScript, Ruby, Python, SQL,  HTML, CSS

@@ -1,13 +1,15 @@
 <head>
     <link rel="stylesheet" href="https://kit.fontawesome.com/f0a6d108e3.css" crossorigin="anonymous">
 </head>
-##Hi, I'm Ebuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+## <p>Hi, I'm Ebuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+
 **`Full Stack Software Engineer`**
+
 - I'm a software developer dedicated to building efficient programs and clean user experiences.
 - I'm always open to new challenges and learning new technologies.
 
 ## 🧰 Languages and Tools
-Here are some of the tools and languages I have experience with and use in projects:
 <div>
 <img src="https://user-images.githubusercontent.com/23465711/212404964-e33626be-4974-4f46-8ad3-4c00c2a9df42.png" width="15" height="15"> <b>Programming Languages and Technologies:</b> JavaScript, TypeScript, Ruby, Python, SQL, HTML, CSS
 </div>

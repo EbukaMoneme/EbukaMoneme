@@ -6,7 +6,7 @@
 
 **`Full Stack Software Engineer`**
 
-I'm a software engineer dedicated to building efficient programs and clean user experiences. I love calisthenics, running, music, and finding good shows/movies. I'm always open to new challenges and learning new technologies.
+I'm a software engineer dedicated to building efficient programs and clean user experiences. I love running, music, and finding good shows/movies. I'm always open to new challenges and learning new technologies.
 
 ## 🧰 Languages and Tools
 <div>

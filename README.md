@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="https://kit.fontawesome.com/f0a6d108e3.css" crossorigin="anonymous">
 </head>
 
-## <h1>Hi, I'm Ebuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+## <h1>Hi, I'm Ebuka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="30"></h1>
 
 **`Full Stack Software Engineer`**
 

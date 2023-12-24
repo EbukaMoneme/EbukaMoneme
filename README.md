@@ -22,5 +22,8 @@ I'm a software engineer dedicated to building efficient programs and clean user 
 <img src="https://user-images.githubusercontent.com/23465711/212405290-7730e84a-ddc9-431d-8214-20c45668ca75.png" width="15" height="15"> <b>Testing:</b> Cypress, Mocha, Chai, StoryBook, Jest, RSpec
 </div>
 
-## 👩🏾‍💻 Currently Working On..
+## 👩🏾‍💻 Currently Working On...
 I'm currently working on a document management system for 2FixFeet.
+
+## 🔗 Let's Connect
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/ebukamoneme/)

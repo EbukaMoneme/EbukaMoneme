@@ -2,11 +2,11 @@
     <link rel="stylesheet" href="https://kit.fontawesome.com/f0a6d108e3.css" crossorigin="anonymous">
 </head>
 
-# Hi, I'm Ebuka 👋
+# Hey, I'm Ebuka 👋
 
 **`Full Stack Software Engineer`**
 
-I'm a software engineer dedicated to building efficient programs and clean user experiences. I love running, music, and finding good shows/movies. I'm always open to new challenges and learning new technologies.
+Apart from coding, I love running, music, and finding good shows/movies. I'm always open to new challenges and learning new technologies.
 
 ## 🧰 Languages and Tools
 <div>
@@ -24,6 +24,3 @@ I'm a software engineer dedicated to building efficient programs and clean user 
 
 ## 👩🏾‍💻 Currently Working On...
 I'm currently working on a document management system for 2FixFeet.
-
-## 🔗 Let's Connect
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/ebukamoneme/)

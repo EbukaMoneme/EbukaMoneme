@@ -9,5 +9,5 @@
 I love running, music, and finding good shows/movies. 
 I'm always open to new challenges and learning new technologies.
 
-## 👩🏾‍💻 Currently Working On...
-I'm currently working on a document management system for 2FixFeet.
+<!--## 👩🏾‍💻 Currently Working On...-->
+<!--I'm currently working on a document management system for 2FixFeet.-->

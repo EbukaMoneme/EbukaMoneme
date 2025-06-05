@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="https://kit.fontawesome.com/f0a6d108e3.css" crossorigin="anonymous">
 </head>
 
-# Howdy! 🤠
+# Hello there! 🤠
 
 **`Full Stack Software Engineer`**
 
